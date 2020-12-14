@@ -1,3 +1,7 @@
 # About this Project
 
-This personal website has been developed to provide a connection point between my social profiles and to represent my identity on the web.
+This is my personal website.
+
+I've created it as a connection point for my social profiles.
+
+You can view it at https://edalgrin.com
